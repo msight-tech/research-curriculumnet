@@ -41,7 +41,7 @@ data distribution density. It is provided as a Python module called [curriculum_
 
 For a usage example, please refer to the provided [test](curriculum_clustering/tests/test_via_webvision.py) which runs on a subset of WebVision data.
 
-For parameters, please see the inline documentation of the [CurriculumClustering class](curriculum_clustering/_curriculum_clustering.py).
+For parameters, please see the inline documentation of the [CurriculumClustering class](curriculum_clustering/_curriculum_clustering.py#L217).
 
 ### Models
 
