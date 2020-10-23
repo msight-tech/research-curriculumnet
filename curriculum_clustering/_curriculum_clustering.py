@@ -31,10 +31,10 @@ If you'd like to learn more please refer to, and / or if you find this work usef
 
 """
 
-# Copyright (c) Malong Technologies Co., Ltd.
+# Copyright (c) Malong LLC.
 # All rights reserved.
 #
-# Contact: github@malong.com
+# Contact: github@malongtech.com
 #
 # This source code is licensed under the LICENSE file in the root directory of this source tree.
 
